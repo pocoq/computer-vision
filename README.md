@@ -1,1 +1,1 @@
-# ex-computer-vision
+Example of computer vision
